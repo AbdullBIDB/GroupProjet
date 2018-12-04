@@ -1,0 +1,21 @@
+NAICS_TITLE,2008 TOT_EMP,2008 A_MEAN,2008 MEAN_PRSE,2008 A_MEDIAN
+"Agriculture, Forestry, Fishing and Hunting",388590,24530,0.6,19230
+"Mining, Quarrying, and Oil and Gas Extraction",685650,50380,0.8,41790
+Utilities,557010,60520,0.6,57610
+Construction,7456300,45100,0.2,38240
+Manufacturing,13655340,43270,0.3,34570
+Wholesale Trade,6011920,48700,0.3,36850
+Retail Trade,15641530,28560,0.2,21950
+Transportation and Warehousing,5346660,42330,0.4,38240
+Information,3019290,57320,1.2,48050
+Finance and Insurance,5916480,55440,0.4,40820
+Real Estate and Rental and Leasing,2137390,38710,0.4,29990
+"Professional, Scientific, and Technical Services",7747850,66040,0.2,52850
+Management of Companies and Enterprises,1916450,65130,0.5,52030
+Administrative and Support and Waste Management and Remediation Services,8379080,32640,0.3,25290
+Educational Services,12655780,46920,0.4,41280
+Health Care and Social Assistance,16499250,44330,0.2,32550
+"Arts, Entertainment, and Recreation",1974230,31360,0.4,22890
+Accommodation and Food Services,11525590,21350,0.2,17920
+"Other Services (except Federal, State, and Local Government)",3922780,33980,0.2,26710
+"Federal, State, and Local Government (OES Designation)",9748080,49530,0.3,43390
